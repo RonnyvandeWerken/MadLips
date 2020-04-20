@@ -1,0 +1,56 @@
+body {
+	background-color: grey;
+}
+footer {
+	background-color: black;
+	color: white;
+	width: 600px;
+	position: center;
+	margin: auto;
+	text-align: center;
+}
+.logo {
+	width: 600px;
+	position: center;
+	margin-left: 460px;
+}
+.container1 {
+	width: 600px;
+	text-align: left;
+	position: center;
+	background-color: white;
+	margin: auto;
+}
+.container2 {
+	width: 600px;
+	text-align: left;
+	position: center;
+	background-color: white;
+	margin: auto;
+}
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: red;
+ }
+ 
+ li {
+ float: left;
+ }
+ 
+ li a {
+ display: block;
+ color: black;
+ text-align: center;
+ padding: 16px;
+ text-decoration: none;
+ }
+ 
+ li a:hover{
+ color:grey;
+ }
+ input {
+ 	float: right;
+ }
